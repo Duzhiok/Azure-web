@@ -1,0 +1,10 @@
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\TestLINQToEntities.exe.config
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\obj\Debug\TestLINQToEntities.csprojResolveAssemblyReference.cache
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\TestLINQToEntities.exe
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\TestLINQToEntities.pdb
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\EntityFramework.dll
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\EntityFramework.xml
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\obj\Debug\TestLINQToEntities.exe
+D:\School\assignments\6931\TestLINQToEntities\TestLINQToEntities\obj\Debug\TestLINQToEntities.pdb
